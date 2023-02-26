@@ -1,0 +1,16 @@
+{
+  "name": "feed",
+  "version": "0.1.0",
+  "description": "readme post",
+  "main": "index.js",
+  "repository": "https://github.com/deptno/readme.git",
+  "author": "Bonggyun Lee <deptno@gmail.com>",
+  "private": true,
+  "dependencies": {
+    "feedme": "^1.2.0",
+    "speech": "*"
+  },
+  "devDependencies": {
+    "@types/feedme": "^1.0.0"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "name": "speech",
+  "version": "0.1.0",
+  "description": "readme post",
+  "main": "index.js",
+  "repository": "https://github.com/deptno/readme.git",
+  "author": "Bonggyun Lee <deptno@gmail.com>",
+  "private": true
+}

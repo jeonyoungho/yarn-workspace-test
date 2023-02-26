@@ -1,0 +1,16 @@
+{
+  "name": "readme",
+  "version": "0.1.0",
+  "description": "readme post",
+  "main": "index.js",
+  "repository": "https://github.com/deptno/readme.git",
+  "author": "Bonggyun Lee <deptno@gmail.com>",
+  "private": true,
+  "dependencies": {
+    "filenamify": "^2.0.0",
+    "speech": "*"
+  },
+  "devDependencies": {
+    "@types/filenamify": "^2.0.1"
+  }
+}
